@@ -22,4 +22,4 @@ This is a simple blockchain simulation project using Python Flask.
 
 ## **Author**
 
-RAKSHITHA
+CH.HYMA
